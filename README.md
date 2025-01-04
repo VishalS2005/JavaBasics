@@ -115,7 +115,7 @@ Before you begin, ensure you have met the following requirements:
     java FolderName/filename
     ```
 
-    **NOTE: When executing a driver file, there is no need to provide arguments when executing**
+    **NOTE: When executing a driver file, there is no need to provide arguments when executing*
     
     Use the following command to execute a single file with arguments:
    ```bash
@@ -132,7 +132,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Contributing
 Rutgers Computer Science Department
-  Authors of certain assignments have their name as a comment at the beginning of the source file
+  Authors of certain assignments have their name as a comment at the beginning of the main source file
 
 ## License
 GNU GENERAL PUBLIC LICENSE
