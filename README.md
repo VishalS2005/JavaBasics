@@ -123,5 +123,8 @@ Rutgers Computer Science Department
   Authors of certain assignments have their name as a comment at the beginning of the source file
 
 ## License
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
 
 ## Contact
+vishalsaran2021@gmail.com
