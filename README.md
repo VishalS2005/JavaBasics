@@ -16,47 +16,47 @@ Whether you are a beginner looking to strengthen your understanding of Java or a
 
 ## Table Of Contents By Concept
 
-[Data Types and Data Type Conversions](#data-types-and-data-type-conversions)
+- __Data Types and Data Type Conversions__
 
-[I/O Operations using Arguments](#io-operations-using-arguments)
+- __I/O Operations using Arguments__
 
-[Elementary Operations including Modulus](#elementary-operations-including-modulus)
+- __Elementary Operations including Modulus__
   - Assignment2/GravitationalForce.java
   - Assignment2/Palindrome.java
 
-[Conditions](#conditions)
+- __Conditions__
   - Assignment3/Buses.java
 
-[Loops](#loops)
+- __Loops__
   - Assignment3/DogWalker.java
   - Assignment4/octTwFour.java
 
-[1D Arrays](#1d-arrays)
+- __1D Arrays__
   - Assignment4/BusStop.java
 
-[2D Arrays](#2d-arrays)
+- __2D Arrays__
   - Assignment4/StaircaseBuilder.java
 
-[I/O Operations using Standard Library and Files with 1D Arrays](#io-operations-using-standard-library-and-files-with-1d-arrays)
+- __I/O Operations using Standard Library and Files with 1D Arrays__
   - Assignment5/AirParticles.java
     - PM2.5.txt
     - SmallerPM2.5.txt
   - Assignment5/ISBN.java
     - books.txt
 
-[I/O Operations using Standard Library and Files with 2D Arrays](#io-operations-using-standard-library-and-files-with-2d-arrays)
+- __I/O Operations using Standard Library and Files with 2D Arrays__
   - Assignment6/Communities.java
     - CommunitiesData.csv
     - SampleCommunitiesData.csv
 
-[Recursion and Strings](#recursion-and-strings)
+- __Recursion and Strings__
   - Assignment7/RecursiveAppend.java
 
-[Object-Oriented Programming](#object-oriented-programming)
+- __Object-Oriented Programming__
 
-[Strings](#strings)
+- __Strings__
 
-[ArrayList](#arraylist)
+- __ArrayList__
   - Assignment8/DNA.java
     - Driver.java to compile and execute
     - Profile.java is a class that has Profile objects
@@ -67,6 +67,8 @@ Whether you are a beginner looking to strengthen your understanding of Java or a
     - SFRecord.java is a class that has SFRecord objects
     - SFYear.java is a class that has SFYear objects
     - Data from CSV files are taken from NYPD Data
+
+
 
 
 ## Installation
