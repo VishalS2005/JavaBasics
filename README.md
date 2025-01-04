@@ -16,45 +16,58 @@ Whether you are a beginner looking to strengthen your understanding of Java or a
 
 ## Table Of Contents By Concept
 
-1. [Data Types and Data Type Conversions](#data-types-and-data-type-conversions)
-2. [I/O Operations using Arguments](#io-operations-using-arguments)
-3. [Elementary Operations including Modulus](#elementary-operations-including-modulus)
-    - Assignment2/GravitationalForce.java
-    - Assignment2/Palindrome.java
-4. [Conditions](#conditions)
-    - Assignment3/Buses.java
-5. [Loops](#loops)
-    - Assignment3/DogWalker.java
-    - Assignment4/octTwFour.java
-6. [1D Arrays](#1d-arrays)
-    - Assignment4/BusStop.java
-7. [2D Arrays](#2d-arrays)
-    - Assignment4/StaircaseBuilder.java
-8. [I/O Operations using Standard Library and Files with 1D Arrays](#io-operations-using-standard-library-and-files-with-1d-arrays)
-    - Assignment5/AirParticles.java
-        - PM2.5.txt
-        - SmallerPM2.5.txt
-    - Assignment5/ISBN.java
-        - books.txt
-9. [I/O Operations using Standard Library and Files with 2D Arrays](#io-operations-using-standard-library-and-files-with-2d-arrays)
-    - Assignment6/Communities.java
-        - CommunitiesData.csv
-        - SampleCommunitiesData.csv
-10. [Recursion and Strings](#recursion-and-strings)
-    - Assignment7/RecursiveAppend.java
-11. [Object-Oriented Programming](#object-oriented-programming)
-12. [Strings](#strings)
-13. [ArrayList](#arraylist)
-    - Assignment8/DNA.java
-        - Driver.java to compile and execute
-        - Profile.java is a class that has Profile objects
-        - STR.java is a class that has STR objects
-        - Text files provided can be used as inputs for certain methods
-    - Assignment9/StopAndFrisk.java
-        - Driver.java to compile and execute
-        - SFRecord.java is a class that has SFRecord objects
-        - SFYear.java is a class that has SFYear objects
-        - Data from CSV files are taken from NYPD Data
+[Data Types and Data Type Conversions](#data-types-and-data-type-conversions)
+
+[I/O Operations using Arguments](#io-operations-using-arguments)
+
+[Elementary Operations including Modulus](#elementary-operations-including-modulus)
+  - Assignment2/GravitationalForce.java
+  - Assignment2/Palindrome.java
+
+[Conditions](#conditions)
+  - Assignment3/Buses.java
+
+[Loops](#loops)
+  - Assignment3/DogWalker.java
+  - Assignment4/octTwFour.java
+
+[1D Arrays](#1d-arrays)
+  - Assignment4/BusStop.java
+
+[2D Arrays](#2d-arrays)
+  - Assignment4/StaircaseBuilder.java
+
+[I/O Operations using Standard Library and Files with 1D Arrays](#io-operations-using-standard-library-and-files-with-1d-arrays)
+  - Assignment5/AirParticles.java
+    - PM2.5.txt
+    - SmallerPM2.5.txt
+  - Assignment5/ISBN.java
+    - books.txt
+
+[I/O Operations using Standard Library and Files with 2D Arrays](#io-operations-using-standard-library-and-files-with-2d-arrays)
+  - Assignment6/Communities.java
+    - CommunitiesData.csv
+    - SampleCommunitiesData.csv
+
+[Recursion and Strings](#recursion-and-strings)
+  - Assignment7/RecursiveAppend.java
+
+[Object-Oriented Programming](#object-oriented-programming)
+
+[Strings](#strings)
+
+[ArrayList](#arraylist)
+  - Assignment8/DNA.java
+    - Driver.java to compile and execute
+    - Profile.java is a class that has Profile objects
+    - STR.java is a class that has STR objects
+    - Text files provided can be used as inputs for certain methods
+  - Assignment9/StopAndFrisk.java
+    - Driver.java to compile and execute
+    - SFRecord.java is a class that has SFRecord objects
+    - SFYear.java is a class that has SFYear objects
+    - Data from CSV files are taken from NYPD Data
+
 
 ## Installation
 
