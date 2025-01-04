@@ -39,15 +39,15 @@ Whether you are a beginner looking to strengthen your understanding of Java or a
 
 - __I/O Operations using Standard Library and Files with 1D Arrays__
   - Assignment5/AirParticles.java
-    - PM2.5.txt
-    - SmallerPM2.5.txt
+    - Assignment5/PM2.5.txt
+    - Assignment5/SmallerPM2.5.txt
   - Assignment5/ISBN.java
-    - books.txt
+    - Assignment5/books.txt
 
 - __I/O Operations using Standard Library and Files with 2D Arrays__
   - Assignment6/Communities.java
-    - CommunitiesData.csv
-    - SampleCommunitiesData.csv
+    - Assignment6/CommunitiesData.csv
+    - Assignment6/SampleCommunitiesData.csv
 
 - __Recursion and Strings__
   - Assignment7/RecursiveAppend.java
@@ -58,18 +58,15 @@ Whether you are a beginner looking to strengthen your understanding of Java or a
 
 - __ArrayList__
   - Assignment8/DNA.java
-    - Driver.java to compile and execute
-    - Profile.java is a class that has Profile objects
-    - STR.java is a class that has STR objects
-    - Text files provided can be used as inputs for certain methods
+    - Assignment8/Driver.java to compile and execute
+    - Assignment8/Profile.java is a class that has Profile objects
+    - Assignment8/STR.java is a class that has STR objects
+    - Assignment8/Text files provided can be used as inputs for certain methods
   - Assignment9/StopAndFrisk.java
-    - Driver.java to compile and execute
-    - SFRecord.java is a class that has SFRecord objects
-    - SFYear.java is a class that has SFYear objects
-    - Data from CSV files are taken from NYPD Data
-
-
-
+    - Assignment9/Driver.java to compile and execute
+    - Assignment9/SFRecord.java is a class that has SFRecord objects
+    - Assignment9/SFYear.java is a class that has SFYear objects
+    - Assignment9/Data from CSV files are taken from NYPD Data
 
 ## Installation
 
