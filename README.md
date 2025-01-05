@@ -4,7 +4,7 @@ Intro to Computer Science Projects
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 - [License](#license)
 - [Contact](#contact)
 
@@ -130,7 +130,7 @@ Before you begin, ensure you have met the following requirements:
 5. **Output**
    You could view the output in your terminal for most programs
 
-## Contributing
+## Contributors
 Rutgers Computer Science Department
   Authors of certain assignments have their name as a comment at the beginning of the main source file
 
